@@ -10,7 +10,7 @@
 A visual constellation of everything I work with — 
 
 ## 🧠 Core Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,php,dart,bash,powershell&perline=9" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,php,dart&perline=7" />
 
 ## 🎨 Frontend Engineering
 
@@ -21,7 +21,7 @@ A visual constellation of everything I work with —
 <img src="https://skillicons.dev/icons?i=html,css,md,latex&perline=4" />
 
 ## 🏗️ Backend & API Crafting
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php,appwrite&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,appwrite&perline=5" />
 
 ## 🧵 Databases & Storage Layer
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,supabase,prisma&perline=7" />
